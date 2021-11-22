@@ -1,0 +1,14 @@
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.exe
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.deps.json
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.runtimeconfig.json
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.runtimeconfig.dev.json
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.dll
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.pdb
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.csproj.AssemblyReference.cache
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfoInputs.cache
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfo.cs
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.csproj.CoreCompileInputs.cache
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.dll
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.pdb
+D:\Juarez\estudo\ALURA\C#\basico2\GitHub\ByteBank\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.genruntimeconfig.cache
